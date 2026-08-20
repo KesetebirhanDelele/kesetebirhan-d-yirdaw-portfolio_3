@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyzes Medicaid expansion's effects on healthcare access and outcomes using data visualizations to present findings.
+Analyzes Medicaid expansion's effects on healthcare access and outcomes, using data visualizations to present findings.
 
 ---
 
