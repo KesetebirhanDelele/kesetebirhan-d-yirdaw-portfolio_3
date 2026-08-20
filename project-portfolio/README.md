@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyzes GitHub repositories to generate recruiter-friendly portfolios, highlighting skills and project value derived from the codebase.
+Analyzes GitHub repositories to generate recruiter-friendly portfolios, highlighting skills and project value.
 
 ---
 
@@ -53,7 +53,7 @@ Repo2Reputation addresses the challenge faced by students and early-career devel
 
 ## Final Dashboard / Project Preview
 
-No project preview image available.
+![Final Dashboard](https://raw.githubusercontent.com/KesetebirhanDelele/portfolio/main/docs/images/repo2reputation-workflow.png)
 
 ---
 
