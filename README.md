@@ -4,7 +4,7 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JWT-3776AB?style=for-the-badge&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/Express-217346?style=for-the-badge&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/REST%20API%20Design-FF7A00?style=for-the-badge&logoColor=white" alt="REST API Design"> <img src="https://img.shields.io/badge/PostgreSQL-00A6A6?style=for-the-badge&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/OpenAI%20API-6A5ACD?style=for-the-badge&logoColor=white" alt="OpenAI API"> <img src="https://img.shields.io/badge/Docker-D83B01?style=for-the-badge&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GraphQL-4361EE?style=for-the-badge&logoColor=white" alt="GraphQL"> <img src="https://img.shields.io/badge/Gunicorn-EA4335?style=for-the-badge&logoColor=white" alt="Gunicorn"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/SQLAlchemy-025E8C?style=for-the-badge&logoColor=white" alt="SQLAlchemy">
+<img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-025E8C?style=for-the-badge&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logoColor=white" alt="SQLAlchemy"> <img src="https://img.shields.io/badge/REST%20API%20Design-217346?style=for-the-badge&logoColor=white" alt="REST API Design"> <img src="https://img.shields.io/badge/Fastapi-FF7A00?style=for-the-badge&logoColor=white" alt="Fastapi"> <img src="https://img.shields.io/badge/PostgreSQL-00A6A6?style=for-the-badge&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-6A5ACD?style=for-the-badge&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Pydantic-D83B01?style=for-the-badge&logoColor=white" alt="Pydantic"> <img src="https://img.shields.io/badge/Uvicorn-4361EE?style=for-the-badge&logoColor=white" alt="Uvicorn"> <img src="https://img.shields.io/badge/OpenAI%20API-EA4335?style=for-the-badge&logoColor=white" alt="OpenAI API"> <img src="https://img.shields.io/badge/Docker-F2C811?style=for-the-badge&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/PgBouncer-025E8C?style=for-the-badge&logoColor=white" alt="PgBouncer">
 
 ---
 
@@ -19,14 +19,20 @@ Data Engineer with 5 + years of proven expertise in building reliable Microsoft 
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-### Portfolio
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Animation_4.gif" width="100%" height="220">
 
-Analyzes GitHub repositories to generate recruiter-friendly portfolios, highlighting skills and project value derived from the codebase.
+</td>
+
+<td width="55%" valign="top">
+
+### Pedal Power: Predicting Washington DC's Bike Demand with Weather Insights
+
+Predicts bike demand for a bikeshare program by analyzing weather data and historical usage patterns.
 
 <p align="right">
-  <a href="./project-portfolio/README.md"><b>View Full Project →</b></a>
+  <a href="./project-pedal-power-predicting-washington-dc-s-bike-demand-with-weather-insights/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
@@ -36,11 +42,40 @@ Analyzes GitHub repositories to generate recruiter-friendly portfolios, highligh
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/31047/SharkMainPic.PNG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+### Shark Attacks in the US
+
+Analyzes shark attack data to provide insights into the frequency and circumstances of attacks in the USA.
+
+<p align="right">
+  <a href="./project-shark-attacks-in-the-us/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/KesetebirhanDelele/cora-recap-engine/main/Recap_Engine_Dashboard_Operator_Guide.png" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
 
 ### Cora Recap Engine
 
-Provides an API and worker service that automates lead management and recap processes, enhancing efficiency in handling inbound and outbound leads.
+Provides an API and worker service that automates lead management and recap processes.
 
 <p align="right">
   <a href="./project-cora-recap-engine/README.md"><b>View Full Project →</b></a>
@@ -63,7 +98,7 @@ Provides an API and worker service that automates lead management and recap proc
 
 ### Medicaid Expansion Decision in the US
 
-Analyzes Medicaid expansion's effects on healthcare access and outcomes using data visualizations to present findings.
+Analyzes Medicaid expansion's effects on healthcare access and outcomes, using data visualizations to present findings.
 
 <p align="right">
   <a href="./project-medicaid-expansion-decision-in-the-us/README.md"><b>View Full Project →</b></a>
@@ -78,18 +113,18 @@ Analyzes Medicaid expansion's effects on healthcare access and outcomes using da
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://d2eiog5yno1qk7.cloudfront.net/GIF_-_Copy.gif" width="100%" height="220">
+<img src="https://raw.githubusercontent.com/KesetebirhanDelele/portfolio/main/docs/images/repo2reputation-workflow.png" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
-### Utility Company Customer Service Response Index (CSRI): Beginning 2005
+### Portfolio
 
-Provides insights into utility company performance by analyzing customer service response metrics, helping organizations improve their service delivery.
+Analyzes GitHub repositories to generate recruiter-friendly portfolios, highlighting skills and project value.
 
 <p align="right">
-  <a href="./project-utility-company-customer-service-response-index-csri-beginning-2005/README.md"><b>View Full Project →</b></a>
+  <a href="./project-portfolio/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
