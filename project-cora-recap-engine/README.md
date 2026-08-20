@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This service automates lead management and recap processes to enhance efficiency in handling inbound and outbound leads.
+Provides an API and worker service that automates lead management and recap processes, enhancing efficiency in handling inbound and outbound leads.
 
 ---
 
