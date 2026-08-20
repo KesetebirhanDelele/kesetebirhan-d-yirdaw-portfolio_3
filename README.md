@@ -75,33 +75,10 @@ Analyzes shark attack data to provide insights into the frequency and circumstan
 
 ### Cora Recap Engine
 
-Provides an API and worker service that automates lead management and recap processes.
+Provides an API and worker service to automate lead recap processes, integrating with various external services.
 
 <p align="right">
   <a href="./project-cora-recap-engine/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://app.colaberry.com/uploads/ProjectRequest/37165/Medicaid_Expansion_Decision_in_the_US-GIF.gif" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-### Medicaid Expansion Decision in the US
-
-Analyzes Medicaid expansion's effects on healthcare access and outcomes, using data visualizations to present findings.
-
-<p align="right">
-  <a href="./project-medicaid-expansion-decision-in-the-us/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
