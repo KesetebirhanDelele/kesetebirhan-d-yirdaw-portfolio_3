@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Provides an API and worker service that automates lead management and recap processes, enhancing efficiency in handling inbound and outbound leads.
+Provides an API and worker service that automates lead management and recap processes.
 
 ---
 
@@ -53,7 +53,7 @@ The Cora Recap Engine addresses the challenge of managing and automating lead pr
 
 ## Final Dashboard / Project Preview
 
-No project preview image available.
+![Final Dashboard](https://raw.githubusercontent.com/KesetebirhanDelele/cora-recap-engine/main/Recap_Engine_Dashboard_Operator_Guide.png)
 
 ---
 
