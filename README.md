@@ -4,7 +4,7 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQLAlchemy-025E8C?style=for-the-badge&logoColor=white" alt="SQLAlchemy"> <img src="https://img.shields.io/badge/REST%20API%20Design-3776AB?style=for-the-badge&logoColor=white" alt="REST API Design"> <img src="https://img.shields.io/badge/Fastapi-217346?style=for-the-badge&logoColor=white" alt="Fastapi"> <img src="https://img.shields.io/badge/PostgreSQL-FF7A00?style=for-the-badge&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-00A6A6?style=for-the-badge&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Pydantic-6A5ACD?style=for-the-badge&logoColor=white" alt="Pydantic"> <img src="https://img.shields.io/badge/Uvicorn-D83B01?style=for-the-badge&logoColor=white" alt="Uvicorn"> <img src="https://img.shields.io/badge/OpenAI%20API-4361EE?style=for-the-badge&logoColor=white" alt="OpenAI API"> <img src="https://img.shields.io/badge/Docker-EA4335?style=for-the-badge&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/RQ-F2C811?style=for-the-badge&logoColor=white" alt="RQ"> <img src="https://img.shields.io/badge/Next.js-025E8C?style=for-the-badge&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JWT-3776AB?style=for-the-badge&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/Express-217346?style=for-the-badge&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/REST%20API%20Design-FF7A00?style=for-the-badge&logoColor=white" alt="REST API Design"> <img src="https://img.shields.io/badge/PostgreSQL-00A6A6?style=for-the-badge&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/OpenAI%20API-6A5ACD?style=for-the-badge&logoColor=white" alt="OpenAI API"> <img src="https://img.shields.io/badge/Docker-D83B01?style=for-the-badge&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GraphQL-4361EE?style=for-the-badge&logoColor=white" alt="GraphQL"> <img src="https://img.shields.io/badge/Gunicorn-EA4335?style=for-the-badge&logoColor=white" alt="Gunicorn"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/SQLAlchemy-025E8C?style=for-the-badge&logoColor=white" alt="SQLAlchemy">
 
 ---
 
@@ -21,9 +21,26 @@ Data Engineer with 5 + years of proven expertise in building reliable Microsoft 
 <tr>
 <td width="100%" valign="top">
 
+### Portfolio
+
+Analyzes GitHub repositories to generate recruiter-friendly portfolios, highlighting skills and project value derived from the codebase.
+
+<p align="right">
+  <a href="./project-portfolio/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
 ### Cora Recap Engine
 
-This service automates lead management and recap processes to enhance efficiency in handling inbound and outbound leads.
+Provides an API and worker service that automates lead management and recap processes, enhancing efficiency in handling inbound and outbound leads.
 
 <p align="right">
   <a href="./project-cora-recap-engine/README.md"><b>View Full Project →</b></a>
@@ -38,18 +55,41 @@ This service automates lead management and recap processes to enhance efficiency
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://app.colaberry.com/uploads/ProjectRequest/31047/SharkMainPic.PNG" width="100%" height="220">
+<img src="https://app.colaberry.com/uploads/ProjectRequest/37165/Medicaid_Expansion_Decision_in_the_US-GIF.gif" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
-### Shark Attacks in the US
+### Medicaid Expansion Decision in the US
 
-The application analyzes shark attack data to provide insights, aiming to enhance public safety through better understanding.
+Analyzes Medicaid expansion's effects on healthcare access and outcomes using data visualizations to present findings.
 
 <p align="right">
-  <a href="./project-shark-attacks-in-the-us/README.md"><b>View Full Project →</b></a>
+  <a href="./project-medicaid-expansion-decision-in-the-us/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://d2eiog5yno1qk7.cloudfront.net/GIF_-_Copy.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+### Utility Company Customer Service Response Index (CSRI): Beginning 2005
+
+Provides insights into utility company performance by analyzing customer service response metrics, helping organizations improve their service delivery.
+
+<p align="right">
+  <a href="./project-utility-company-customer-service-response-index-csri-beginning-2005/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
